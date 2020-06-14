@@ -1,0 +1,60 @@
+.warning {
+	color: purple;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.body1 {
+	background-image: url(gambar/gradient2.png);
+	background-repeat: repeat-y;
+	background-position: top center;
+	background-image: url(gambar/back1.png);
+}
+
+body {
+	background-color: orange;
+	background-image: url(gambar/gradient2.png);
+	background-repeat: repeat-y;
+}
+
+h1 {
+	color: blue;
+}
+
+.p1 {
+	color: white;
+	font-style: arial;
+}
+
+.p2 {
+	color: purple;
+}
+
+.p3 {
+	color: pink;
+}
+
+.p4 {
+	color: skyblue;
+}
+
+.p5 {
+	color: black;
+}
+
+.p6 {
+	color: yellow;
+}
+
+/*background bisa diberikan pada element body atau pada element spasific
+
+Properti background ada 4:
+
+- background-color >> mangatur warna pada bakground
+- background-image >> mengatur gambar yang akan digunakan pada background
+- background-position >> mengatur posisi gambar pada background
+- background-repeat >> mengatur jenis pengulangan gambar pada background
+
+shorthand => background: color url() position repeat; , Ini tidak ngaruh jika urutannya ngacak
+
+*/

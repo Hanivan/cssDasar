@@ -1,0 +1,20 @@
+h1 {
+	font-family: "Courier New";
+	text-align: center;
+	font-size: 30px;
+	color: blue;	
+}
+p {
+	color: orange;
+	font-size: 20px;
+}
+
+/*File CSS mempunyai extensi .css*/
+
+/*anatomy css mempunyai 3 value, strukturnya yaitu:*/
+	/*selector {property: value;}*/
+
+/*Penempatan CSS ada 2 cara, yaitu:
+	- Dihalaman yang sama >> inline
+	- Buat file sendiri/terpisah dengan extensi (.css) >> embed
+	- Membuat File CSS dan HTML terpisah, dan dihubungkan melalui link external >> external*/

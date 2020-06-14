@@ -1,0 +1,42 @@
+.warning {
+	color: purple;
+	text-align: center;
+}
+
+.judul {
+	color: orange;
+}
+
+.judul:hover {
+	font-family: arial;
+	color: green;
+	font-style: 20px;
+}
+
+.judul:active {
+	font-style: italic;
+}
+
+.judul:visited {
+	color: red;
+}
+
+
+
+
+
+/*Kelas semu yang dimiliki oleh sebuah elemet HTML, yang membuat kita dapat medefinisikan style 
+pada "Keadaan Tertentu" dari elemet tersebut
+
+Type Pseudo Class pertama:
+- :link >> style default pada sebuah link (a yang memiliki href)
+- :hover >> style ketika kursor mouse berada diatas sebuah link/element
+- :active >> sytle ketika sebuah link di-klik (Keadaan aktif)
+- :visited >> sytle ketika sebuah link sudah pernah dikunjungi sebelumnya (Menggunakan browser yang sama)
+
+Type Pseudo Class kedua:
+- frist-child >> memilih element pertama dari sebuah parent (element pembungkusnya)
+- last-child >> memilih element terakhir dari sebuah parent (element pembungkusnya)
+- nth-child (n) >> memilih element ke-n dari sebuah parent (element pembungkusnya).
+					n bisa berarti urutan (1), (2), ... atau pola (2n), (3n+2), (4-1)
+					atau ganjil genap (even) & (odd)*/

@@ -1,0 +1,55 @@
+.warning {
+	text-align: center;
+	color: blue;
+}
+
+.judul {
+	color: red;
+}
+
+body {
+	font-family: arial;
+}
+
+.subjudul {
+	color: black;
+}
+
+ul li a {
+	color: red;
+	text-decoration: none;
+}
+
+ol li a {
+	color: purple;
+	text-decoration: none;
+}
+
+.p cetak-tebal {
+	color: red;
+}
+
+#p2 {
+	color: orange;
+}
+
+.cetak-tebal {
+	font-weight: bold;
+}
+
+
+/*selector digunakan pada css untuk mengenali sebuah element html yang akan diberi style
+
+Element HTML:
+- id ditandai dengan # (Crash)
+	Sebuah element HTML hanya boleh memiliki 1 id
+	Setiap halaman hanya boleh memiliki 1 element dengan id tersebut
+	Dapar digunakan sebagai penanda halaman untuk link
+	Digunakan juga pada javascript
+	Sebaiknya tidak digunakan untuk CSS (Lebih baik menggunakan class)
+- class dtandai dengan . (Titik)
+- complex selector
+
+HTML bebannya 1 ; inline
+id bebannya 100 ; hanya boleh satu
+class bebannya 10 ; boleh lebih dari satu nama/class*/

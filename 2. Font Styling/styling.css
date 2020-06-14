@@ -1,0 +1,45 @@
+#h1 {
+	font-family: arial, sans-serif, verdana;
+	font-size: 100px;
+	color: green;
+	font-variant: normal;
+	font-style: italic;
+}
+
+p {
+	font-family: georgia, serif;
+	color: red;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-style: italic;
+	line-height: 20px;
+}
+
+/*# >> Ini adalah angker untuk tag id*/
+
+/*Untuk mengatur font size... memakai value
+
+- px
+- %
+- em*/
+
+/*font-weight mempunyai attribute
+	- lighter
+	- normal
+	- 100 - 900px
+	- bold
+	- bolder*/
+
+/*font-variant mempunyai attribute
+	- normal
+	- small-caps*/
+
+/*font-style mempunyai attribute
+	- normal
+	- italic
+	- oblique*/
+
+/*line-height mempunyai attribute
+	- normal
+	- px
+	- em*/

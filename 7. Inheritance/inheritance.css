@@ -1,0 +1,17 @@
+body {
+	font-family: arial;
+	color: darkgrey;
+}
+
+a {color: inherit; }
+
+
+
+
+
+
+inherintance/pewarisan = sebuah element mewarisi beberapa nilai dari properti yang dimiliki oleh 
+						element parent-nya
+
+Properti yang diwariskan: color, font, letter-spacing, line-height, list-style, text-allign, text-indent
+						text-tranform, visibility, white-space

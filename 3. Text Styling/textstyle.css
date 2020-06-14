@@ -1,0 +1,37 @@
+.warning {
+	color: royalblue;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.pertama {
+	color: red;
+	text-decoration: line-through;
+}
+
+p {
+	color: green;
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-align: justify;
+	text-indent: 20px;
+}
+
+a {
+	color: violet;
+	text-decoration: none;
+}
+
+
+
+/*propherty yang ada pada css:
+
+- color >> memberi warna pada tulisan (Bisa memberikan warna berdasarkan: nama warna, hexadecimal, rgb)
+- text-allign >> mengatur format paragraft/teks
+- text-indent >> memberi indentasi pada paragraft/teks atau disebut juga dengan Tab pada keyboard
+- text-decoration >> mengatur dekorasi pada teks
+- text-transform >> mengubah jenis huruf menjadi huruf besar, kecil/kapital
+- letter-spacing >> mengatur spasi antar huruf
+- word-spacing >> mengatur spasi antar kata
+
+*/
